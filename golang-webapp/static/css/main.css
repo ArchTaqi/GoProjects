@@ -1,0 +1,261 @@
+ @media (min-width: 1200px) {
+     .container {
+         width: 970px
+     }
+ }
+
+ body {
+     padding-top: 70px
+ }
+
+ .navbar-fixed-top {
+     position: absolute !important
+ }
+
+ .form-group div .help-block {
+     margin-bottom: 0 !important
+ }
+
+ html {
+     position: relative;
+     min-height: 100%
+ }
+
+ body {
+     margin-bottom: 60px
+ }
+
+ .footer {
+     position: absolute;
+     bottom: 0;
+     width: 100%;
+     height: 60px;
+     background-color: #f5f5f5
+ }
+
+ .container .text-muted {
+     margin: 20px 0
+ }
+
+ .media-body {
+     display: block !important;
+     width: 100% !important
+ }
+
+ .navbar-brand img {
+     height: 40px !important;
+     width: 40px !important;
+     margin-top: -10px;
+     vertical-align: middle;
+     display: inline;
+     margin-right: 5px
+ }
+
+ .margin_v_30 {
+     margin-top: 30px;
+     margin-bottom: 30px
+ }
+
+ .margin_v_10 {
+     margin-top: 10px;
+     margin-bottom: 10px
+ }
+
+ .w_200 {
+     width: 200px
+ }
+
+ .navbar-brand img {
+     height: 20px;
+     width: auto
+ }
+
+ code {
+     background-color: #f5f5f5;
+     overflow: auto;
+     border: 1px solid #ccc;
+     border-radius: 4px;
+     display: block;
+     white-space: nowrap;
+     padding: 15px
+ }
+
+ .answer .media-left {
+     padding-right: 15px
+ }
+
+ .answer .media-heading {
+     margin-bottom: 10px
+ }
+
+ .answer .panel-title a {
+     color: #337ab7
+ }
+
+ .question_price {
+     background-color: #f0ad4e;
+     color: #fff;
+     font-size: 60px;
+     padding: 0 15px
+ }
+
+ #question_status {
+     margin-left: 20px
+ }
+
+ .question_status {
+     background-color: #5cb85c;
+     color: #fff;
+     font-size: 20px
+ }
+
+ .question_status a,
+ .question_cta_completed a {
+     text-decoration: underline;
+     color: #fff
+ }
+
+ .question_status_completed {
+     background-color: #5cb85c;
+     color: #fff;
+     font-size: 36px
+ }
+
+ .question_cta_completed {
+     background-color: #f0ad4e;
+     font-size: 20px
+ }
+
+ .question_status_voting {
+     background-color: #5bc0de;
+     color: #fff;
+     font-size: 26px
+ }
+
+ .rating {
+     color: #ffd700;
+     font-size: 24px;
+     letter-spacing: 3px;
+     vertical-align: middle
+ }
+
+ #answer h3 {
+     margin-bottom: 20px
+ }
+
+ #edit_question_form,
+ #edit_answer_form,
+ .create_comment_form,
+ .question_complete_cta {
+     display: none
+ }
+
+ #refund_slider {
+     margin: 20px 0
+ }
+
+ #refund_amount_max {
+     border-bottom: 1px dashed #fff;
+     cursor: pointer
+ }
+
+ #refund_amount {
+     font-weight: 700;
+     max-width: 100px
+ }
+
+ .panel-footer .progress {
+     width: 100px;
+     height: 10px;
+     margin: 5px 0 0 5px
+ }
+
+ .progress-bar-muted {
+     background-color: #ddd
+ }
+
+ .panel-footer .pull-left .btn {
+     margin-left: 5px
+ }
+
+ .cta_top {
+     position: relative
+ }
+
+ .money_back_guarantee {
+     display: block;
+     position: absolute;
+     top: -1px;
+     right: 10px
+ }
+
+ .paypal_seal {
+     display: block;
+     position: absolute;
+     top: 6px;
+     right: 70px
+ }
+
+ .paypal_seal img {
+     width: 55px
+ }
+
+ .credit_cards {
+     display: block;
+     position: absolute;
+     top: 12px;
+     right: 130px
+ }
+
+ .credit_cards img {
+     width: 30px;
+     margin: 0 3px 3px 0
+ }
+
+ .ssl_seal {
+     display: block;
+     position: absolute;
+     top: 0;
+     right: 195px
+ }
+
+ .dashed_link {
+     border-bottom: 1px dashed;
+     cursor: pointer
+ }
+
+ .fa.success {
+     color: #5cb85c
+ }
+
+ .fa.info {
+     color: #337ab7
+ }
+
+ .fa.warning {
+     color: #8a6d3b
+ }
+
+ .fa.danger {
+     color: #a94442
+ }
+
+ .fa.muted {
+     color: #aaa
+ }
+
+ table#transactions hr {
+     margin: 10px 0 0
+ }
+
+ .fa-question-circle {
+     color: #bbb
+ }
+
+ .fa-question-circle:hover {
+     color: #777
+ }
+
+ .fa- {
+     display: none
+ }
